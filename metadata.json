@@ -1,0 +1,6 @@
+{
+  "name": "Chatter — Document RAG Chat",
+  "description": "Minimalist document chatbot with in-memory chunking, cosine-similarity retrieval, and grounded streaming answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
